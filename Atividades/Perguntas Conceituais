@@ -1,0 +1,38 @@
+1. Qual é o foco do backend?
+
+	Garantir que a aplicação funcione corretamente, 
+	fazendo o gerencimento de dados e lógica de negócios.
+
+2. Quais são as principasi tecnologias nesse lado do desenvolvimento web?
+
+	SOAP, REST, GraphQL
+
+3. O que são frameworks?
+
+	Um conjunto de ferramentas e bibliotecas para 
+	melhorar e facilitar o trabalho dos desenvolvedores.
+
+4. O que liga o back end com o front end?
+
+	Uma ou mais API's
+
+5. Quais são os métodos HTTP e o que fazem?
+
+	GET = Busca recursos, 
+	POST = Cria um novo recurso, 
+	PUT = Atualiza um recurso já existente, 
+	DELETE = Deleta um recurso.
+
+6. O que é Postman?
+
+	Uma plataforma de API para o teste, criação e projeção de API's.
+	
+
+7. O que é o Express?
+
+	Um framework que fornece recursos para a construção de servidores Web.	
+
+8. Porque você se interessou para essa vaga (desenvolvedor Back end)?
+
+	Me interessei nessa vaga por já ter feito front end e gostado, buscando mais 
+	conhecimento na área de desenvolvimento eu acabei vindo para back-end.
